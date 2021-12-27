@@ -10,7 +10,8 @@ int main()
     int nickels;
     int pennies;
 
-    cout << "Please enter the amount of money to convert:\n" << endl;
+    cout << "Please enter the amount of money to convert:\n"
+         << endl;
     cout << "# of dollars: ";
     cin >> dollars;
     cout << "# of cents: ";
